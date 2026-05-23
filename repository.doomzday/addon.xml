@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.doomzday" name="Doomzday Repo" version="1.1.0" provider-name="DD Team">
-    <extension point="xbmc.addon.repository" name="Doomzday Repo">
+<addon id="repository.bigkev" name="bigkev Repo" version="1.0.1" provider-name="BigKev">
+    <extension point="xbmc.addon.repository" name="BigKev Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/doomzdayteam/repo/master/_zipfiles/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/doomzdayteam/repo/master/_zipfiles/addons.xml.md5</checksum>
